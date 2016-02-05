@@ -14,3 +14,6 @@
      javascripting verify rounding-numbers.js
 */
 
+roundUp = 1.5;
+Math.round(.5);
+console.log('2');
