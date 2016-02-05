@@ -13,5 +13,5 @@
   javascripting verify numbers.js
 */
 
-example = 1234567890;
+example = 123456789;
 console.log(example);
